@@ -1,3 +1,3 @@
-https://minicroi.github.io/project/2025/06/01/another/
-https://minicroi.github.io/project/2025/06/01/hello-world/
-https://minicroi.github.io/project
+https://minicroi.github.io/2025/06/01/another/
+https://minicroi.github.io/2025/06/01/hello-world/
+https://minicroi.github.io/
