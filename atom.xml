@@ -6,104 +6,38 @@
   <link href="https://minicroi.github.io/atom.xml" rel="self"/>
   
   <link href="https://minicroi.github.io/"/>
-  <updated>2025-06-01T04:48:22.428Z</updated>
+  <updated>2025-06-01T15:01:44.219Z</updated>
   <id>https://minicroi.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>minicroi</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>HI another blog</title>
-    <link href="https://minicroi.github.io/2025/06/01/another%20copy/"/>
-    <id>https://minicroi.github.io/2025/06/01/another%20copy/</id>
-    <published>2025-06-01T04:48:18.156Z</published>
-    <updated>2025-06-01T04:48:22.428Z</updated>
+    <title>零散的英语学习笔记</title>
+    <link href="https://minicroi.github.io/2025/06/01/En_learning/"/>
+    <id>https://minicroi.github.io/2025/06/01/En_learning/</id>
+    <published>2025-05-31T16:00:00.000Z</published>
+    <updated>2025-06-01T15:01:44.219Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome!…</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome!…&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我的</title>
-    <link href="https://minicroi.github.io/2025/06/01/Mynew/"/>
-    <id>https://minicroi.github.io/2025/06/01/Mynew/</id>
-    <published>2025-06-01T02:10:00.000Z</published>
-    <updated>2025-06-01T04:55:09.002Z</updated>
-    
-    <content type="html"><![CDATA[<p>一个</p>]]></content>
+    <content type="html"><![CDATA[<p>#记录平时遇到的特殊的短语搭配和句子…</p><p>1.I think it was a mutual conversation.<em>我觉得那是一场彼此尊重&#x2F;双方参与的谈话</em><br>2.描述某种意义上努力的成果：<br>    <em>1.It’s kind of the fruit of our labor.</em><br>    <em>2.It’s sort of a result of the hard work we put in.</em><br>    <em>3.It’s a kind of reward for all the work.</em><br>3.I think I’m gonna try being more straight edge for a while.<em>我要尝试一段时间更自律一点</em><br>    straight edge:引申为更克制，更健康的生活方式，不吸烟，不喝酒..</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;一个&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;#记录平时遇到的特殊的短语搭配和句子…&lt;/p&gt;
+&lt;p&gt;1.I think it was a mutual conversation.&lt;em&gt;我觉得那是一场彼此尊重&amp;#x2F;双方参与的谈话&lt;/em&gt;&lt;br&gt;2.描述某种意义上努力的成果：&lt;br&gt;    &lt;em&gt;1.It’s </summary>
       
     
     
     
-    <category term="biancheng" scheme="https://minicroi.github.io/categories/biancheng/"/>
-    
-    <category term="qianduan" scheme="https://minicroi.github.io/categories/biancheng/qianduan/"/>
+    <category term="-学习笔记" scheme="https://minicroi.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="java" scheme="https://minicroi.github.io/tags/java/"/>
-    
-    <category term="html" scheme="https://minicroi.github.io/tags/html/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HI another blog</title>
-    <link href="https://minicroi.github.io/2025/06/01/another/"/>
-    <id>https://minicroi.github.io/2025/06/01/another/</id>
-    <published>2025-05-31T16:40:29.973Z</published>
-    <updated>2025-06-01T02:34:27.386Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome!…</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome!…&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://minicroi.github.io/2025/06/01/hello-world/"/>
-    <id>https://minicroi.github.io/2025/06/01/hello-world/</id>
-    <published>2025-05-31T16:22:47.773Z</published>
-    <updated>2025-05-31T16:22:47.773Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
+    <category term="-英语 -零散" scheme="https://minicroi.github.io/tags/%E8%8B%B1%E8%AF%AD-%E9%9B%B6%E6%95%A3/"/>
     
   </entry>
   
