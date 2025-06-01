@@ -10,8 +10,8 @@
   -o-background-size: cover;
 }
 .serif {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Cormorant Garamond', 'Georgia', '宋体', serif;
 }
 .sans-serif {
-  font-family: '微软雅黑', 'Microsoft YaHei', sans-serif;
+  font-family: 'Inter', 'Noto Sans', 'PingFang SC', 'Microsoft YaHei', sans-serif;
 }
