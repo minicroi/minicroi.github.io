@@ -6,7 +6,7 @@
   <link href="https://minicroi.github.io/atom.xml" rel="self"/>
   
   <link href="https://minicroi.github.io/"/>
-  <updated>2025-05-31T16:40:29.973Z</updated>
+  <updated>2025-06-01T04:48:22.428Z</updated>
   <id>https://minicroi.github.io/</id>
   
   <author>
@@ -17,12 +17,70 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>HI another blog</title>
+    <link href="https://minicroi.github.io/2025/06/01/another%20copy/"/>
+    <id>https://minicroi.github.io/2025/06/01/another%20copy/</id>
+    <published>2025-06-01T04:48:18.156Z</published>
+    <updated>2025-06-01T04:48:22.428Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome!…</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome!…&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的</title>
+    <link href="https://minicroi.github.io/2025/06/01/Mynew/"/>
+    <id>https://minicroi.github.io/2025/06/01/Mynew/</id>
+    <published>2025-06-01T02:10:00.000Z</published>
+    <updated>2025-06-01T04:55:09.002Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;一个&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="biancheng" scheme="https://minicroi.github.io/categories/biancheng/"/>
+    
+    <category term="qianduan" scheme="https://minicroi.github.io/categories/biancheng/qianduan/"/>
+    
+    
+    <category term="java" scheme="https://minicroi.github.io/tags/java/"/>
+    
+    <category term="html" scheme="https://minicroi.github.io/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HI another blog</title>
     <link href="https://minicroi.github.io/2025/06/01/another/"/>
     <id>https://minicroi.github.io/2025/06/01/another/</id>
     <published>2025-05-31T16:40:29.973Z</published>
-    <updated>2025-05-31T16:40:29.973Z</updated>
+    <updated>2025-06-01T02:34:27.386Z</updated>
     
+    <content type="html"><![CDATA[<p>Welcome!…</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome!…&lt;/p&gt;
+</summary>
+      
     
     
     

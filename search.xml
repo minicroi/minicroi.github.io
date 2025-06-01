@@ -4,11 +4,53 @@
   
     
     <entry>
-      <title></title>
+      <title>HI another blog</title>
+      <link href="/2025/06/01/another%20copy/"/>
+      <url>/2025/06/01/another%20copy/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome!…</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的</title>
+      <link href="/2025/06/01/Mynew/"/>
+      <url>/2025/06/01/Mynew/</url>
+      
+        <content type="html"><![CDATA[<p>一个</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> biancheng </category>
+          
+          <category> qianduan </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+            <tag> html </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HI another blog</title>
       <link href="/2025/06/01/another/"/>
       <url>/2025/06/01/another/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>Welcome!…</p>]]></content>
       
       
       
