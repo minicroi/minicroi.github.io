@@ -1,6 +1,196 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>数学标记及其英文读法</title>
+    <url>/2025/06/08/%E6%95%B0%E5%AD%A6%E6%A0%87%E8%AE%B0%E5%8F%8A%E5%85%B6%E8%8B%B1%E6%96%87%E8%AF%BB%E6%B3%95/</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th align="left">Symbol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th align="left">Pronunciation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th align="left">Example</th>
+<th align="left">Example Reading&nbsp;&nbsp;&nbsp;&nbsp;</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">$\pi$</td>
+<td align="left">pi</td>
+<td align="left">$\pi \approx 3.14$</td>
+<td align="left">pi approximately 3 point 14</td>
+</tr>
+<tr>
+<td align="left">$\hat{x}$</td>
+<td align="left">x hat</td>
+<td align="left">$\hat{x} &#x3D; 5$</td>
+<td align="left">x hat equals 5</td>
+</tr>
+<tr>
+<td align="left">$x^2$</td>
+<td align="left">x squared</td>
+<td align="left">$x^2 + y^2 &#x3D; z^2$</td>
+<td align="left">x squared plus y squared equals z squared</td>
+</tr>
+<tr>
+<td align="left">$x_n$</td>
+<td align="left">x sub n</td>
+<td align="left">$x_n &#x3D; \frac{1}{n}$</td>
+<td align="left">x sub n equals one over n</td>
+</tr>
+<tr>
+<td align="left">$\sum$</td>
+<td align="left">summation</td>
+<td align="left">$\sum_{i&#x3D;1}^n i$</td>
+<td align="left">summation from i equals 1 to n of i</td>
+</tr>
+<tr>
+<td align="left">$\int$</td>
+<td align="left">integral</td>
+<td align="left">$\int_0^1 x,dx$</td>
+<td align="left">integral from 0 to 1 of x dx</td>
+</tr>
+<tr>
+<td align="left">$\infty$</td>
+<td align="left">infinity</td>
+<td align="left">$\lim_{x \to \infty} f(x)$</td>
+<td align="left">limit as x approaches infinity of f of x</td>
+</tr>
+<tr>
+<td align="left">$\lim$</td>
+<td align="left">limit</td>
+<td align="left">$\lim_{x \to 0} \frac{\sin x}{x}$</td>
+<td align="left">limit as x approaches 0 of sin x over x</td>
+</tr>
+<tr>
+<td align="left">$\forall$</td>
+<td align="left">for all</td>
+<td align="left">$\forall x \in \mathbb{R}$</td>
+<td align="left">for all x in real numbers</td>
+</tr>
+<tr>
+<td align="left">$\exists$</td>
+<td align="left">there exists</td>
+<td align="left">$\exists x &gt; 0$</td>
+<td align="left">there exists x greater than zero</td>
+</tr>
+<tr>
+<td align="left">$\equiv$</td>
+<td align="left">is congruent to</td>
+<td align="left">$a \equiv b \pmod{n}$</td>
+<td align="left">a is congruent to b modulo n</td>
+</tr>
+<tr>
+<td align="left">$\to$</td>
+<td align="left">approaches &#x2F; tends to</td>
+<td align="left">$x \to 0$</td>
+<td align="left">x approaches zero</td>
+</tr>
+<tr>
+<td align="left">$\approx$</td>
+<td align="left">approximately equals</td>
+<td align="left">$\pi \approx 3.14$</td>
+<td align="left">pi approximately equals 3 point 14</td>
+</tr>
+<tr>
+<td align="left">$\nabla$</td>
+<td align="left">del &#x2F; gradient</td>
+<td align="left">$\nabla f(x,y)$</td>
+<td align="left">gradient of f at x y</td>
+</tr>
+<tr>
+<td align="left">$\cdot$</td>
+<td align="left">dot</td>
+<td align="left">$a \cdot b$</td>
+<td align="left">a dot b</td>
+</tr>
+<tr>
+<td align="left">$\times$</td>
+<td align="left">times &#x2F; cross</td>
+<td align="left">$\vec{a} \times \vec{b}$</td>
+<td align="left">vector a cross vector b</td>
+</tr>
+<tr>
+<td align="left">$\Rightarrow$</td>
+<td align="left">implies</td>
+<td align="left">$P \Rightarrow Q$</td>
+<td align="left">P implies Q</td>
+</tr>
+<tr>
+<td align="left">$\leftarrow$</td>
+<td align="left">left arrow</td>
+<td align="left">$x \leftarrow y$</td>
+<td align="left">x left arrow y</td>
+</tr>
+<tr>
+<td align="left">$\neq$</td>
+<td align="left">not equal</td>
+<td align="left">$x \neq y$</td>
+<td align="left">x not equal y</td>
+</tr>
+<tr>
+<td align="left">$\leq$</td>
+<td align="left">less than or equal to</td>
+<td align="left">$x \leq y$</td>
+<td align="left">x less than or equal to y</td>
+</tr>
+<tr>
+<td align="left">$\geq$</td>
+<td align="left">greater than or equal to</td>
+<td align="left">$x \geq y$</td>
+<td align="left">x greater than or equal to y</td>
+</tr>
+<tr>
+<td align="left">$\subset$</td>
+<td align="left">is subset of</td>
+<td align="left">$A \subset B$</td>
+<td align="left">A is subset of B</td>
+</tr>
+<tr>
+<td align="left">$\supset$</td>
+<td align="left">is superset of</td>
+<td align="left">$B \supset A$</td>
+<td align="left">B is superset of A</td>
+</tr>
+<tr>
+<td align="left">$\cup$</td>
+<td align="left">union</td>
+<td align="left">$A \cup B$</td>
+<td align="left">A union B</td>
+</tr>
+<tr>
+<td align="left">$\cap$</td>
+<td align="left">intersection</td>
+<td align="left">$A \cap B$</td>
+<td align="left">A intersection B</td>
+</tr>
+<tr>
+<td align="left">$\mathbb{R}$</td>
+<td align="left">real numbers</td>
+<td align="left">$\mathbb{R}$</td>
+<td align="left">real numbers</td>
+</tr>
+<tr>
+<td align="left">$\mathbb{N}$</td>
+<td align="left">natural numbers</td>
+<td align="left">$\mathbb{N}$</td>
+<td align="left">natural numbers</td>
+</tr>
+<tr>
+<td align="left">$\partial$</td>
+<td align="left">partial (derivative)</td>
+<td align="left">$\frac{\partial f}{\partial x}$</td>
+<td align="left">partial derivative of f with respect to x</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>学习积累</category>
+      </categories>
+      <tags>
+        <tag>英语</tag>
+        <tag>数学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>文章中的常见英文（短语，缩写..）</title>
     <url>/2025/06/03/%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E5%B8%B8%E8%A7%81%E8%8B%B1%E6%96%87/</url>
     <content><![CDATA[<h1 id="阅读英语文章时常见以下缩写："><a href="#阅读英语文章时常见以下缩写：" class="headerlink" title="阅读英语文章时常见以下缩写："></a>阅读英语文章时常见以下缩写：</h1><ol>
@@ -43,9 +233,26 @@
 <li>in the sequel 在后续中&#x2F;在续集中<ul>
 <li>In the sequel,the hero comes back stronger.</li>
 <li>I hope they explain her past in the sequel.</li>
-<li>In the sequel, we often use graph-theoretical notations for MCs which refer to the underlying digraph of M.</li>
+<li>In the sequel, we often use graph-theoretical notations for MCs which refer to the underlying digraph of M. <ol>
+<li><strong>symbol</strong>:单个的标记，用来代表某个特定的概念、对象或操作。它通常是一个字符或图形。</li>
+<li><strong>notation</strong>:一整套用于表达思想、概念或公式的规则和方式，往往由多个symbols组成。是表达的体系。<br>  <strong>简单地来讲</strong>：symbol是单个字符，notation是使用字符的一套语言系统</li>
+</ol>
+</li>
 </ul>
 </li>
+<li>in this sense 从这个角度看&#x2F;在这个意义下&#x2F;就此而言<ul>
+<li>The system is stable. In this sense, it returns to equilibrium after small disturbances.这个系统是稳定的。就这个角度来说，它在受到小扰动后会恢复到平衡状态</li>
+</ul>
+</li>
+<li>it follows that 由此可得&#x2F;因此&#x2F;可以得出<ul>
+<li>All humans are mortal. Socrates is a human. It follows that Socrates is mortal.所有人都会死亡。苏格拉底是人。因此可推出苏格拉底会死亡。</li>
+</ul>
+</li>
+<li>consequence of 结果&#x2F;推论（学术场景）<ul>
+<li>As a direct consequence of Theorem 10.25 作为定理10.25的直接结果</li>
+</ul>
+</li>
+<li></li>
 </ol>
 <p>To be continue…</p>
 ]]></content>
@@ -102,6 +309,14 @@
 <li>a bit of imposter syndrome <em>有点觉得自己不够格</em><ul>
 <li>I got the job,but I still feel a bit of imposter syndrome sometimes.<em>我拿到了这份工作，但有时候还是会觉得自己好像不配</em></li>
 <li>She’s incredibly talented,yet she struggles with imposter syndrome.<em>她非常有才华，但却一直受到“冒名顶替感”的困扰</em></li>
+</ul>
+</li>
+<li><strong>ish</strong>后缀，意思是大约（口语化表达，文章中用得少）<ul>
+<li>Let’s meet at 3-ish so we can grab a coffee before the movie.<em>我们大概三点见吧，这样可以在看电影前喝杯咖啡</em></li>
+</ul>
+</li>
+<li><strong>down for that</strong>表赞同，愿意参加某个提议或活动<ul>
+<li>Well, if my friends invite me to go hiking or catch a movie, I’m usually down for that. I enjoy spending time outdoors or just relaxing with good company.</li>
 </ul>
 </li>
 </ol>
