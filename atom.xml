@@ -6,7 +6,7 @@
   <link href="https://minicroi.github.io/atom.xml" rel="self"/>
   
   <link href="https://minicroi.github.io/"/>
-  <updated>2025-06-08T15:24:15.182Z</updated>
+  <updated>2025-06-07T17:32:52.694Z</updated>
   <id>https://minicroi.github.io/</id>
   
   <author>
@@ -15,36 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>文章中的单词积累</title>
-    <link href="https://minicroi.github.io/2025/06/08/%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%E7%A7%AF%E7%B4%AF/"/>
-    <id>https://minicroi.github.io/2025/06/08/%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%E7%A7%AF%E7%B4%AF/</id>
-    <published>2025-06-07T16:00:00.000Z</published>
-    <updated>2025-06-08T15:24:15.182Z</updated>
-    
-    <content type="html"><![CDATA[<ol><li>variant 变体，变种<ul><li>The virus has developed a new variant.</li></ul></li><li>follow 采用，遵循<ul><li>We follow the scientific method in our experiments.我们在实验中采用科学方法</li><li>A structured approach should be followed when writing code.编写代码时应遵循结构化的方法</li></ul></li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;ol&gt;
-&lt;li&gt;variant 变体，变种&lt;ul&gt;
-&lt;li&gt;The virus has developed a new variant.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;follow 采用，遵循&lt;ul&gt;
-&lt;li&gt;We follow the scientific met</summary>
-      
-    
-    
-    
-    <category term="学习积累" scheme="https://minicroi.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%A7%AF%E7%B4%AF/"/>
-    
-    
-    <category term="英语" scheme="https://minicroi.github.io/tags/%E8%8B%B1%E8%AF%AD/"/>
-    
-  </entry>
   
   <entry>
     <title>数学标记及其英文读法</title>
@@ -77,13 +47,43 @@
   </entry>
   
   <entry>
+    <title>文章中的单词积累</title>
+    <link href="https://minicroi.github.io/2025/06/08/%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%E7%A7%AF%E7%B4%AF/"/>
+    <id>https://minicroi.github.io/2025/06/08/%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%E7%A7%AF%E7%B4%AF/</id>
+    <published>2025-06-07T16:00:00.000Z</published>
+    <updated>2025-06-08T15:47:34.688Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>variant 变体，变种<ul><li>The virus has developed a new variant.</li></ul></li><li>follow 采用，遵循<ul><li>We follow the scientific method in our experiments.我们在实验中采用科学方法</li><li>A structured approach should be followed when writing code.编写代码时应遵循结构化的方法</li></ul></li><li>vertex(单数)&#x2F;vertices(复数) 顶点</li><li>digraph （short for directed graph）有向图</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;variant 变体，变种&lt;ul&gt;
+&lt;li&gt;The virus has developed a new variant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;follow 采用，遵循&lt;ul&gt;
+&lt;li&gt;We follow the scientific met</summary>
+      
+    
+    
+    
+    <category term="学习积累" scheme="https://minicroi.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%A7%AF%E7%B4%AF/"/>
+    
+    
+    <category term="英语" scheme="https://minicroi.github.io/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>文章中的常见英文（短语，缩写..）</title>
     <link href="https://minicroi.github.io/2025/06/03/%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E5%B8%B8%E8%A7%81%E8%8B%B1%E6%96%87/"/>
     <id>https://minicroi.github.io/2025/06/03/%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E5%B8%B8%E8%A7%81%E8%8B%B1%E6%96%87/</id>
     <published>2025-06-02T16:00:00.000Z</published>
-    <updated>2025-06-08T10:49:31.650Z</updated>
+    <updated>2025-06-08T15:35:28.133Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="阅读英语文章时常见以下缩写："><a href="#阅读英语文章时常见以下缩写：" class="headerlink" title="阅读英语文章时常见以下缩写："></a>阅读英语文章时常见以下缩写：</h1><ol><li>e.g. 例如（for example）<ul><li>Many animals, e.g., lions and tigers, are carnivores.</li></ul></li><li>i.e. 也就是说&#x2F;即（that is to say）<ul><li>He is a polyglot, i.e., someone who speaks several languages.</li></ul></li><li>viz. 即&#x2F;具体来说（namely）<ul><li>Three cities, viz. London, Paris, and Rome, are on the list.</li></ul></li><li>cf. 参见&#x2F;比较（compare）<ul><li>Cf. Smith (2002) for a different approach.</li></ul></li><li>et al. 等等&#x2F;以及其他人（and others）<ul><li>The paper was written by Johnson et al.</li></ul></li><li>etc. 等等（and so on）<ul><li>We need paper, pens, etc.</li></ul></li><li>s.t. 通常是subject to的缩写,指：满足..的条件，在..情况下<ul><li>minimize f(x)  s.t. g(x)≤0</li></ul></li></ol><h1 id="阅读英语文章时常见以下短语："><a href="#阅读英语文章时常见以下短语：" class="headerlink" title="阅读英语文章时常见以下短语："></a>阅读英语文章时常见以下短语：</h1><ol><li>in line with 与…一致&#x2F;符合<ul><li>This decision is in line with company policy.</li><li>Her results were in line with our expectations.</li><li>His actions are not in line with his values.</li></ul></li><li>in the sequel 在后续中&#x2F;在续集中<ul><li>In the sequel,the hero comes back stronger.</li><li>I hope they explain her past in the sequel.</li><li>In the sequel, we often use graph-theoretical notations for MCs which refer to the underlying digraph of M. <ol><li><strong>symbol</strong>:单个的标记，用来代表某个特定的概念、对象或操作。它通常是一个字符或图形。</li><li><strong>notation</strong>:一整套用于表达思想、概念或公式的规则和方式，往往由多个symbols组成。是表达的体系。</li></ol><ul><li><strong>简单地来讲</strong>：symbol是单个字符，notation是使用字符的一套语言系统</li></ul></li></ul></li><li>in this sense 从这个角度看&#x2F;在这个意义下&#x2F;就此而言<ul><li>The system is stable. In this sense, it returns to equilibrium after small disturbances.这个系统是稳定的。就这个角度来说，它在受到小扰动后会恢复到平衡状态</li></ul></li><li>it follows that 由此可得&#x2F;因此&#x2F;可以得出<ul><li>All humans are mortal. Socrates is a human. It follows that Socrates is mortal.所有人都会死亡。苏格拉底是人。因此可推出苏格拉底会死亡</li></ul></li><li>consequence of 结果&#x2F;推论（学术场景）<ul><li>As a direct consequence of Theorem 10.25 作为定理10.25的直接结果</li></ul></li><li>amount to 等同于&#x2F;归结为<ul><li>In practice, solving this equation amounts to finding the roots of a polynomial.实际上，解这个方程就是在找一个多项式的根</li></ul></li><li>to that end 为此&#x2F;为了那个目的<ul><li>We want to improve customer satisfaction. To that end, we’ve hired more support staff.我们希望提升客户满意度。为此，我们增聘了更多客服人员</li></ul></li></ol><p>To be continue…</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="阅读英语文章时常见以下缩写："><a href="#阅读英语文章时常见以下缩写：" class="headerlink" title="阅读英语文章时常见以下缩写："></a>阅读英语文章时常见以下缩写：</h1><ol><li>e.g. 例如（for example）<ul><li>Many animals, e.g., lions and tigers, are carnivores.</li></ul></li><li>i.e. 也就是说&#x2F;即（that is to say）<ul><li>He is a polyglot, i.e., someone who speaks several languages.</li></ul></li><li>viz. 即&#x2F;具体来说（namely）<ul><li>Three cities, viz. London, Paris, and Rome, are on the list.</li></ul></li><li>cf. 参见&#x2F;比较（compare）<ul><li>Cf. Smith (2002) for a different approach.</li></ul></li><li>et al. 等等&#x2F;以及其他人（and others）<ul><li>The paper was written by Johnson et al.</li></ul></li><li>etc. 等等（and so on）<ul><li>We need paper, pens, etc.</li></ul></li><li>s.t. 通常是subject to的缩写,指：满足..的条件，在..情况下<ul><li>minimize f(x)  s.t. g(x)≤0</li></ul></li></ol><h1 id="阅读英语文章时常见以下短语："><a href="#阅读英语文章时常见以下短语：" class="headerlink" title="阅读英语文章时常见以下短语："></a>阅读英语文章时常见以下短语：</h1><ol><li>in line with 与…一致&#x2F;符合<ul><li>This decision is in line with company policy.</li><li>Her results were in line with our expectations.</li><li>His actions are not in line with his values.</li></ul></li><li>in the sequel 在后续中&#x2F;在续集中<ul><li>In the sequel,the hero comes back stronger.</li><li>I hope they explain her past in the sequel.</li><li>In the sequel, we often use graph-theoretical notations for MCs which refer to the underlying digraph of M. <ol><li><strong>symbol</strong>:单个的标记，用来代表某个特定的概念、对象或操作。它通常是一个字符或图形。</li><li><strong>notation</strong>:一整套用于表达思想、概念或公式的规则和方式，往往由多个symbols组成。是表达的体系。</li></ol><ul><li><strong>简单地来讲</strong>：symbol是单个字符，notation是使用字符的一套语言系统</li></ul></li></ul></li><li>in this sense 从这个角度看&#x2F;在这个意义下&#x2F;就此而言<ul><li>The system is stable. In this sense, it returns to equilibrium after small disturbances.这个系统是稳定的。就这个角度来说，它在受到小扰动后会恢复到平衡状态</li></ul></li><li>it follows that 由此可得&#x2F;因此&#x2F;可以得出<ul><li>All humans are mortal. Socrates is a human. It follows that Socrates is mortal.所有人都会死亡。苏格拉底是人。因此可推出苏格拉底会死亡</li></ul></li><li>consequence of 结果&#x2F;推论（学术场景）<ul><li>As a direct consequence of Theorem 10.25 作为定理10.25的直接结果</li></ul></li><li>amount to 等同于&#x2F;归结为<ul><li>In practice, solving this equation amounts to finding the roots of a polynomial.实际上，解这个方程就是在找一个多项式的根</li></ul></li><li>to that end 为此&#x2F;为了那个目的<ul><li>We want to improve customer satisfaction. To that end, we’ve hired more support staff.我们希望提升客户满意度。为此，我们增聘了更多客服人员</li></ul></li><li>Abstract from 从…抽象出&#x2F;撇开…（更好的理解是不考虑…而考虑其他更本质的东西）<ul><li>In formal methods, we abstract from hardware details to focus on software behavior.在形式化方法中，我们撇开硬件细节，专注于软件行为</li><li>To understand the core idea, we need to abstract from the technical implementation. 为了理解核心思想，我们需要抽离技术实现的细节</li></ul></li></ol><p>To be continue…</p>]]></content>
     
     
       
